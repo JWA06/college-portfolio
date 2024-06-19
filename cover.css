@@ -50,3 +50,8 @@ body {
   color: #fff;
   border-bottom-color: #fff;
 }
+
+.text-bg-dark {
+  background-color: #052c65 !important; /*
+  $blue-800 */
+}
